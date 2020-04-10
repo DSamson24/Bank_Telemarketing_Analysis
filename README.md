@@ -1,7 +1,7 @@
 # Bank_Telemarketing_Analysis
 
 Logistic Regression
-Decision tree
-Random forest
-SVM Classifier
-Neural network
+\n Decision tree
+\n Random forest
+\n SVM Classifier
+\n Neural network
