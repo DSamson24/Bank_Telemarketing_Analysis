@@ -1,5 +1,6 @@
-Used the following models to predict
-Logistic regression
+# Bank_Telemarketing_Analysis
+
+Logistic Regression
 Decision tree
 Random forest
 SVM Classifier
